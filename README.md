@@ -12,3 +12,4 @@ The Arduino acts as a stopwatch. It measures exactly how many microseconds it to
 ​How far away an object is in that direction (from the sensor's math).
 It instantly updates the tiny OLED screen with those numbers, and simultaneously blasts those numbers over the HC-05 Bluetooth module to my phone.
 Then the Arduino Bluetooth Controller app reads those numbers and draws a green dot on the screen, creating the classic "radar" visual! Then, the servo turns another 2 degrees, and the whole loop starts over.
+![Ultrasonic-sensor Radar](Screenshot_20261002-175427_Samsung Notes.jpg)
