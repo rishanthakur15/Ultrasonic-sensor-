@@ -1,5 +1,5 @@
 # Ultrasonic-sensor-
-Well I'm making a radar sensor as its supposed to be pretty easy and is my first ever project. My goal rn is to build a rover connect it an ai model .
+Well I'm making a radar sensor as its supposed to be pretty easy and is my first ever project. My goal right now is to build a rover connect it an ai model .
 The radar I'm planning to make will be later mounted on the rove and if things go well I might add a camera as well .
 Now how will the radar work ?
 The arduino will turn the servo motor (2 degrees at a time) and as the ultrasonic sensor is mounted on the the servo motor it acts as an head .
